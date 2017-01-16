@@ -13,6 +13,10 @@ insert into authorised_user (id,email,user_name,fullname,profession,password_has
 5- create roles, departments, pages,   add roles to pages to users and department only to users
 6- create samples and then you'll see security per department or per role ( DEADBOLT security )
 
+7- unzip this files and put them in c:/temp...
+https://drive.google.com/file/d/0B97fo89guk_nXzRUVlZMTldCYVE/view?usp=sharing
+
+
 -> in the end you should get something like :
 
 http://imgur.com/a/mDrRt
